@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Index</title>
+    </head>
+    <body>
+        <div>
+            @using (Html.BeginForm("Login", "Test", FormMethod.Post))
+            {
+                @Html.TextBox("usernaem", string.Empty);
+                @Html.TextBox("pass", String.Empty);
+                <input type="submit" value="w3w" />
+            }
+        </div>
+    </body>
+</html>

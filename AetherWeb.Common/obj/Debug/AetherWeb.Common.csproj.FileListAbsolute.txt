@@ -1,0 +1,5 @@
+Z:\Aether\Web\AetherWeb.Common\bin\Debug\AetherWeb.Common.dll
+Z:\Aether\Web\AetherWeb.Common\bin\Debug\AetherWeb.Common.pdb
+Z:\Aether\Web\AetherWeb.Common\obj\Debug\AetherWeb.Common.csprojResolveAssemblyReference.cache
+Z:\Aether\Web\AetherWeb.Common\obj\Debug\AetherWeb.Common.dll
+Z:\Aether\Web\AetherWeb.Common\obj\Debug\AetherWeb.Common.pdb
